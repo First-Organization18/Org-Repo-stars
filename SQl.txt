@@ -1,0 +1,12 @@
+SELECT ID,SAL
+FROM EMPLOYEE
+GROUPBY ID
+ORDER BY SAL DESC
+   
+
+axios
+
+
+
+
+
